@@ -1,4 +1,4 @@
-# BookingBackend
+# NewsApiBackend
 
 
 
@@ -19,7 +19,7 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 feawfawefwaef
 cd existing_repo
-git remote add origin https://gitlab.com/booking19/BookingBackend.git
+git remote add origin 
 git branch -M main
 git push -uf origin main
 ```
